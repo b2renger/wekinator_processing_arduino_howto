@@ -191,6 +191,8 @@ And that's all ! the values from our sensors are now stored in our global variab
 
 ## Processing code to send values to wekinator
 
+Now that we have our sensor values inside processing
+
 
 ## Wekinator setup - interface and manipulation
 

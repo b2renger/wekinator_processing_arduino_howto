@@ -47,6 +47,7 @@ void serialEvent (Serial myPort) {
           if (json == null) {
             println("JSONObject could not be parsed");
           } else {
+            // this is finally the end of the tests an were we actually do things
             // get the values into global variables according to their keys
             p1    = json.getInt("p1"); 
             p2    = json.getInt("p2");

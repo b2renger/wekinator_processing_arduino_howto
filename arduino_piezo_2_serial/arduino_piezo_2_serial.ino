@@ -32,5 +32,6 @@ void loop() {
     Serial.print(analogRead(3));
     Serial.print(",");
     Serial.print(analogRead(4));
-    Serial.println();*/
+    Serial.println();
+    */
 }
